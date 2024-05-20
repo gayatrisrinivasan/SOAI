@@ -2,6 +2,11 @@
 - AI and ML are evolving fields integrating algebra, calculus, and statistics.
 - Core idea: Finding patterns in datasets.
 
+### Date: 16th May 2024
+
+Access the Presentation [here](https://learning.swecha.org/pluginfile.php/125528/mod_resource/content/1/ML%20Concepts.pdf)
+Access the video [here](https://learning.swecha.org/mod/resource/view.php?id=3577)
+
 **Agenda:**
 1. Supervised Learning
 2. Unsupervised Learning
