@@ -15,6 +15,7 @@ This guide provides a clear, step-by-step process to help you install Python, se
   - Press `Win + R`, type `cmd`, and hit Enter.
 
 2. **Install `virtualenv`:**
+   
    ```
    pip install virtualenv
    ```
@@ -37,7 +38,6 @@ This guide provides a clear, step-by-step process to help you install Python, se
    ```
 
 ## Step 6: Launch JupyterLab
-1. **Launch JupyterLab:**
    ```
    jupyter lab
    ```
