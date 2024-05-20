@@ -1,4 +1,4 @@
-**Introduction to AI/ML:**
+## **Introduction to AI/ML:**
 - AI and ML are evolving fields integrating algebra, calculus, and statistics.
 - Core idea: Finding patterns in datasets.
 
