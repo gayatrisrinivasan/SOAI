@@ -36,7 +36,7 @@ Dive into the world of Artificial Intelligence with a focus on datasets and mode
 - **Data Collection:** Collect voice and video samples from diverse participants.
 - **AI/ML Training:** Learn fundamentals and work on assignments.
 - **Project Work:** Build and train AI models, validate data, and present findings.
-- 
+
 ---
 
 Thank you for visiting my GitHub repository! Let's innovate and celebrate Telugu together.
