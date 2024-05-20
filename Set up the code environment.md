@@ -27,9 +27,9 @@ This guide provides a clear, step-by-step process to help you install Python, se
    This will create a directory named `summerofai` with a new virtual environment.
 
 ## Step 4: Activate Virtual Environment
-     ```
+   ```
      summerofai\Scripts\activate
-     ```
+   ```
    After activation, you should see `(summerofai)` at the beginning of your command prompt, indicating that the virtual environment is active.
 
 ## Step 5: Install JupyterLab]
