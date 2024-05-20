@@ -21,8 +21,8 @@ Dive into the world of Artificial Intelligence with a focus on datasets and mode
 | Week      | Days/Topics                                                                                           |
 |-----------|-------------------------------------------------------------------------------------------------------|
 | **Week 1**| - **Day 1:** Orientation                                                                               |
-|           | - **Day 2:** [Setting up development environments](https://github.com/gayatrisrinivasan/SOAI/blob/main/Set%20up%20the%20code%20environment.md)     |
-|           | - **Days 3-4:** [Basics of AI/ML](https://github.com/gayatrisrinivasan/SOAI/blob/main/Set%20up%20the%20code%20environment.md)                      |
+|           | - **Day 2:** [Setting up development environments](https://github.com/gayatrisrinivasan/SOAI/blob/main/Week%201/Day%202%20-%20Set%20up%20the%20code%20environment.md)     |
+|           | - **Days 3-4:** [Basics of AI/ML](https://github.com/gayatrisrinivasan/SOAI/blob/main/Week%201/Day%203%20or%204%20-%20AI%20ML%20Basics.md)                      |
 |           | - **Day 5:** Introduction to Automatic Speech Recognition (ASR)                                        |
 | **Week 2**| - Data Collection Phase: Interact with 50 people to collect diverse data sets                          |
 | **Week 3**| - Data Validation                                                                                      |
